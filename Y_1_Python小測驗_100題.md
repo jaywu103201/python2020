@@ -751,7 +751,7 @@ for x in [0, 1, 2]:
 (D) x
 ```
 ```
-67.
+(D)67.
 for x in "Python for loop.":
   if _______:
     break
@@ -763,7 +763,7 @@ print(x)
 (D) x != “ ”
 ```
 ```
-68.
+(A)68.
 for x in [0, 1, 2,3]:
   if x == 2:
     ________
@@ -776,7 +776,7 @@ for x in [0, 1, 2,3]:
 (D) exit
 ```
 ```
-69.
+(B)69.
 for x in range(6):
   print(x)
 以上程式碼輸出的結果是？
@@ -787,7 +787,7 @@ for x in range(6):
 (D) 輸出隨機的6個數字
 ```
 ```
-70.
+(B)70.
 for x in range(20, 15, _____):
   print(x)
 若要讓以上程式碼輸出的結果都差距2需填入什麼？
@@ -798,7 +798,7 @@ for x in range(20, 15, _____):
 (D) 2++
 ```
 ```
-71.
+(D)71.
 for x in [3,4,5]:
   ______
 print(“ok”)
@@ -813,7 +813,7 @@ print(“ok”)
 ## 自訂函數1
 ```
 
-72.
+(C)72.
 _______________:
   print("Hello print_function")
 定義一個print_funtion需填入什麼？
@@ -824,7 +824,7 @@ _______________:
 (D) DWORD print_funtion()
 ```
 ```
-73.
+(C)73.
 def print_funtion():
   print("Hello print_function")
 
@@ -837,7 +837,7 @@ ____________
 (D) call print_funtion
 ```
 ```
-74.
+(A)74.
 def add(a,b):
   return a+b
 
@@ -850,7 +850,7 @@ print(_______)
 (D) add()
 ```
 ```
-75.
+(D)75.
 def print_name(yourname):
   print(yourname)
 
@@ -863,7 +863,7 @@ print_name ("Steve Jobs")
 (D) Steve Jobs
 ```
 ```
-76.
+(A)76.
 def hello(greeting='Hello', name='world'): 
     print('{}, {}!'.format(greeting, name)) 
 
@@ -876,7 +876,7 @@ hello_3()
 (D) '{}, {}!'.format(greeting, name)
 ```
 ```
-77.
+(A)77.
 def hello(greeting='Hello', name='world'): 
     print('{}, {}!'.format(greeting, name)) 
 
@@ -889,7 +889,7 @@ hello_3('great', 'universe')
 (D) '{}, {}!'.format(greeting, name)
 ```
 ```
-78.
+(A)78.
 def hello(greeting='Hello', name='world'): 
     print('{}, {}!'.format(name, greeting)) 
 
@@ -903,7 +903,7 @@ hello_3(name = 'great')
 ```
 ## 匿名函數Lambda
 ```
-79.
+(C)79.
 x = ___________
 建立一個擁有參數與返回值y的Lambda函數需填入什麼？
 
